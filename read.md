@@ -10,4 +10,5 @@ Each week we'll build on this project as we take you through HTML and CSS. This 
 9th November
 ------------
 
-+ [Version 2](https://DanielLeonard.github.io/John-baskerville/Baskervillev2.html) - Marked up Plain text file as an HTML5 page.
++ [Version 2](https://DanielLeonard.github.io/John-baskerville/Baskervillev2.html) - Added lists.
++ [Version 3](https://DanielLeonard.github.io/John-baskerville/Baskervillev2.html) - Added Hyperlnks.
