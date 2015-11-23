@@ -1,0 +1,25 @@
+ body { width: 75%;
+            max-width: 650px; 
+            min-width: 320px;
+            fon-size: 100%;
+            font-family: 'Libre Baskerville', Georgia, Times, "Times New Roman", serif;
+            margin: auto;
+            color: #666666;
+            line-height: 1.8em;
+        }
+        .section {2em 0 2em 0;}
+        h1, h2, h3 { font-weight: normal;
+                     color:firebrick;
+        }
+        
+        h1{font-size: 4.236em;}
+        h2{font-size: 2.618em;}
+        h3{font-size: 1.618em;}
+
+        .intro {font-size: 1.618em;
+            line-height; 1.9em;
+            padding 2em 0 2em 0;
+
+    
+    }
+  
