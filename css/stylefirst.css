@@ -7,11 +7,12 @@
             color: #666666;
             line-height: 1.8em;
         }
-        .section {2em 0 2em 0;}
+        section {2em 0 2em 0;}
         h1, h2, h3 { font-weight: normal;
                      color:firebrick;
                      line-height: 1.3em;
                      text-align: center;
+            align-items: center;
         }
         
         h1{font-size: 4.236em;}
@@ -44,7 +45,7 @@ cite {font-size: 1em;
 .anchor{ 
 font-size: 1.9em
 }
-/*-----------------Links-----*/
+
   
 a {
 color: firebrick;
@@ -59,7 +60,6 @@ a:hover {
     border-bottom: 1px dotted;
 }
 
-/*-------nav-------*/
 nav {
     border-top: 1px solid #666666;
     border-bottom: 1px solid #666666;
@@ -81,3 +81,33 @@ footer {
     padding-bottom: 2em;
 }
 
+img {align-content: center;
+}
+
+table {
+    margin: auto;
+    width: 100%;
+    display: table;
+    border-collapse: collapse;
+    border-spacing: 2px;
+}
+
+caption {
+    margin-bottom: 1.5em;
+    text-transform: uppercase;
+    }
+
+table.head, th {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: left;
+    background: #333;}
+
+th, td {
+    padding: .6em;}
+
+table, td {
+   background: #cc0066;
+   background: rgba(0,0,0,.1);    
+   border: 1px dotted #fff;}
