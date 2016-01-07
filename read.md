@@ -18,6 +18,7 @@ Each week we'll build on this project as we take you through HTML and CSS. This 
 
 + [Version 4](https://DanielLeonard.github.io/John-Baskerville/Baskervillev4.html) - Changed list to table.
 + [Version 5](https://DanielLeonard.github.io/John-Baskerville/Baskervillev5.html) - added images.
+
 Part 02 CSS
 ===========
 
