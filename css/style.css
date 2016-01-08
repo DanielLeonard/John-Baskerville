@@ -53,12 +53,22 @@ hgroup h2 {color: #333}
        text-transform: uppercase
 }
 
-blockquote { 
-    font-size: 1.6em;
-    line-height: 1.9em;
-    margin: 0;
-    padding-bottom: 1em;
+blockquote {
+    padding: 1em 0 2em 0;
+    font-size: 1.75em;
+    line-height: 1.4em;
+    margin: 0;}
+
+blockquote cite    {
+    color: #777;
+    font-size: .6em; 
 }
+
+blockquote p {
+    color: #777;
+    hanging-punctuation: first;
+    text-indent: -0.5em; /* Change according to your font */
+            }
 
 p {
     font-size: 1em;
