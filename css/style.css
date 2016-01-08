@@ -37,6 +37,21 @@ body {  width: 75%;
             line-height: 1.9em;
             padding: 2em 0 2em 0;
     }
+ /*----Title--------*/
+hgroup h1 {text-shadow: 2px 2px 0px #fff, 4px 3px 0px rgba(0,0,0,0.5);} 
+
+hgroup h2 {color: #333}
+
+.kerntight {
+    letter-spacing: -5px;
+    }
+
+.kernloose {
+    letter-spacing: 5px;
+    }
+.leader {
+       text-transform: uppercase
+}
 
 blockquote { 
     font-size: 1.6em;
@@ -45,7 +60,8 @@ blockquote {
     padding-bottom: 1em;
 }
 
-p {font-size: 1em;
+p {
+    font-size: 1em;
     font-weight: lighter;
     line-height: 2em;
     padding-top: 2em;
